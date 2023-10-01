@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My_Portfoilo/static/css/main.ca49cfad.css",
+    "main.js": "/My_Portfoilo/static/js/main.4bec61c4.js",
+    "static/js/787.128fc6e9.chunk.js": "/My_Portfoilo/static/js/787.128fc6e9.chunk.js",
+    "static/media/myImage.jpg": "/My_Portfoilo/static/media/myImage.425e7dd2f2f1ed8072e9.jpg",
+    "static/media/project02.png": "/My_Portfoilo/static/media/project02.82a4656b95fe0744da05.png",
+    "static/media/project01.png": "/My_Portfoilo/static/media/project01.06f48a465badc70a6e2e.png",
+    "static/media/PermanentMarker-Regular.ttf": "/My_Portfoilo/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
+    "static/media/bgimg.jpg": "/My_Portfoilo/static/media/bgimg.99a555fc1507d85864c3.jpg",
+    "static/media/project03.png": "/My_Portfoilo/static/media/project03.d07b0c9586db7cf5be24.png",
+    "static/media/Untitled_design (7).png": "/My_Portfoilo/static/media/Untitled_design (7).ecd26a5d17f163c32c60.png",
+    "static/media/Untitled_design__12.png": "/My_Portfoilo/static/media/Untitled_design__12.46217c3c39b8911dded9.png",
+    "static/media/Untitled design (5).png": "/My_Portfoilo/static/media/Untitled design (5).358b80d8da6e44f5b160.png",
+    "static/media/Untitleddesign(4).png": "/My_Portfoilo/static/media/Untitleddesign(4).adbdddfe647fcb2a4f78.png",
+    "static/media/Untitled design (11).png": "/My_Portfoilo/static/media/Untitled design (11).d0858ab510a7de34ef33.png",
+    "static/media/Untitled design (6).png": "/My_Portfoilo/static/media/Untitled design (6).8225672234cbb6266f97.png",
+    "static/media/Untitled_design__7.png": "/My_Portfoilo/static/media/Untitled_design__7.a2a842833e7d9bd9711b.png",
+    "static/media/Untitled design (3).png": "/My_Portfoilo/static/media/Untitled design (3).6e71d70d0e8851322d3b.png",
+    "static/media/Untitled design.png": "/My_Portfoilo/static/media/Untitled design.ef6084e40c766c16e417.png",
+    "static/media/Untitled design (1).png": "/My_Portfoilo/static/media/Untitled design (1).5e7a25f847f04aae5ac9.png",
+    "static/media/Github-512.webp": "/My_Portfoilo/static/media/Github-512.8ddb6440a46afd42ede3.webp",
+    "index.html": "/My_Portfoilo/index.html",
+    "main.ca49cfad.css.map": "/My_Portfoilo/static/css/main.ca49cfad.css.map",
+    "main.4bec61c4.js.map": "/My_Portfoilo/static/js/main.4bec61c4.js.map",
+    "787.128fc6e9.chunk.js.map": "/My_Portfoilo/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca49cfad.css",
+    "static/js/main.4bec61c4.js"
+  ]
+}
