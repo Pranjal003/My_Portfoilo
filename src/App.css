@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'permanent_mark';
+    src: url('../public/PermanentMarker-Regular.ttf') format('ttf'),
+}
+
+.permanent_mark{
+    font-family: permanent_mark;
+}

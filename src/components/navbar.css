@@ -1,0 +1,15 @@
+
+.navbar {
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Navbar styles when scrolled */
+  .scrolled.navbar-home {
+    background-color: rgba(255, 255, 255, 0.9); 
+    box-shadow: #BCBDC0; 
+  }
+  
+  .navbar-home .navbar-nav {
+    margin-left: auto; 
+  }
+  
